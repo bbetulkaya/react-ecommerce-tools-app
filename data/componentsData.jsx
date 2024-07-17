@@ -13,6 +13,11 @@ const componentsData = [
       title: "Checkout Form",
       description: "Streamline the checkout process with our user-friendly forms.",
       link: "/components/checkout-form"
+    },
+    {
+      title: "Checkout Form",
+      description: "Streamline the checkout process with our user-friendly forms.",
+      link: "/components/checkout-form"
     }
   ];
   
